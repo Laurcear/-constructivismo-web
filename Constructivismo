@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constructivismo</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header>
+    <h1>Educación Infantil y Constructivismo</h1>
+    <p>Un Enfoque Centrado en el Niño</p>
+  </header>
+
+  <section id="sobre-mi">
+    <h2>Sobre mí</h2>
+    <p>"Lo que un niño puede hacer hoy con ayuda, será capaz de hacerlo por sí mismo mañana." — Lev Vygotsky</p>
+  </section>
+
+  <section id="temas">
+    <h2>Temas del Constructivismo</h2>
+    <div class="tema">
+      <h3>Jean Piaget</h3>
+      <p>Piaget destacó el desarrollo cognitivo a través de etapas. El conocimiento se construye gradualmente con la interacción del niño con su entorno.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Jean_Piaget_1967.jpg" alt="Jean Piaget">
+    </div>
+    <div class="tema">
+      <h3>Lev Vygotsky</h3>
+      <p>Vygotsky enfatizó el papel de la interacción social en el aprendizaje y la importancia de la "zona de desarrollo próximo" (ZDP) en el crecimiento cognitivo.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Lev_Vygotsky.jpg" alt="Lev Vygotsky">
+    </div>
+    <div class="tema">
+      <h3>Jerome Bruner</h3>
+      <p>Bruner defendió el aprendizaje por descubrimiento y el hecho de que los niños aprenden mejor cuando exploran activamente su entorno.</p>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Jerome_Bruner.jpg" alt="Jerome Bruner">
+    </div>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Puedes escribirme a <a href="mailto:laurcear26@gmail.com">laurcear26@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Constructivismo Educativo</p>
+  </footer>
+</body>
+</html>
